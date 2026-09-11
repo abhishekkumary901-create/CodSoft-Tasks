@@ -2,7 +2,7 @@ CodSoft Machine Learning Internship - All Tasks
 
 This repository contains all 3 tasks completed during my Machine Learning Internship at CodSoft.
 
-My GitHub Profile
+My GitHub Profile:
 https://github.com/abhishekkumary901-create
 
 Task 1: Movie Genre Prediction
@@ -19,4 +19,5 @@ Accuracy: 79.25%
 Work: Predict customer churn using Telco dataset
 
 Internship: CodSoft - Machine Learning
+
 Name: Abhishek Kumar Yadav
