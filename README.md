@@ -21,3 +21,5 @@ Work: Predict customer churn using Telco dataset
 Internship: CodSoft - Machine Learning
 
 Name: Abhishek Kumar Yadav
+
+Thank You CodSoft Team!
