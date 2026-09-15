@@ -10,7 +10,7 @@ Link: https://github.com/abhishekkumary901-create/Movie-Genre-Prediction
 Work: Predict movie genre from description using TF-IDF and ML Model
 
 Task 2: Credit Card Fraud Detection
-Link: https://github.com/abhishekkumary901-create/Credit-Card-Fraud-Detection
+Link: https://github.com/abhishekkumary901-create/Credit-Card-Fraud- Detection
 Work: Detect fraud transactions using Random Forest
 
 Task 3: Customer Churn Prediction
